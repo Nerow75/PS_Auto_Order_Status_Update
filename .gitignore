@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+# PrestaShop
+config/settings.inc.php
+var/
+cache/
+img/tmp/
+upload/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
